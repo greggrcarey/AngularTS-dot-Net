@@ -1,0 +1,56 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = DutchTreat
+build_property.RootNamespace = DutchTreat
+build_property.ProjectDir = C:\Users\gcarey\projects\pluralsight\ASP_NET\DutchTreat\DutchTreat\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = C:\Users\gcarey\projects\pluralsight\ASP_NET\DutchTreat\DutchTreat
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/gcarey/projects/pluralsight/ASP_NET/DutchTreat/DutchTreat/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gcarey/projects/pluralsight/ASP_NET/DutchTreat/DutchTreat/Views/App/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwXEFib3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gcarey/projects/pluralsight/ASP_NET/DutchTreat/DutchTreat/Views/App/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwXENvbnRhY3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gcarey/projects/pluralsight/ASP_NET/DutchTreat/DutchTreat/Views/App/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gcarey/projects/pluralsight/ASP_NET/DutchTreat/DutchTreat/Views/App/Shop.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwXFNob3AuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gcarey/projects/pluralsight/ASP_NET/DutchTreat/DutchTreat/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gcarey/projects/pluralsight/ASP_NET/DutchTreat/DutchTreat/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gcarey/projects/pluralsight/ASP_NET/DutchTreat/DutchTreat/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gcarey/projects/pluralsight/ASP_NET/DutchTreat/DutchTreat/wwwroot/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d3d3cm9vdFxQYWdlc1xFcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gcarey/projects/pluralsight/ASP_NET/DutchTreat/DutchTreat/wwwroot/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d3d3cm9vdFxQYWdlc1xfVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
